@@ -1,0 +1,7 @@
+C:\Users\icors\source\repos\Calculando o IR\Calculando o IR\bin\Debug\Calculando o IR.exe.config
+C:\Users\icors\source\repos\Calculando o IR\Calculando o IR\bin\Debug\Calculando o IR.exe
+C:\Users\icors\source\repos\Calculando o IR\Calculando o IR\bin\Debug\Calculando o IR.pdb
+C:\Users\icors\source\repos\Calculando o IR\Calculando o IR\obj\Debug\Calculando o IR.csproj.AssemblyReference.cache
+C:\Users\icors\source\repos\Calculando o IR\Calculando o IR\obj\Debug\Calculando o IR.csproj.CoreCompileInputs.cache
+C:\Users\icors\source\repos\Calculando o IR\Calculando o IR\obj\Debug\Calculando o IR.exe
+C:\Users\icors\source\repos\Calculando o IR\Calculando o IR\obj\Debug\Calculando o IR.pdb
